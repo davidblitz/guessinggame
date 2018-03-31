@@ -4,7 +4,7 @@ project_title:
 	echo "# Guessing Game Project" > README.md
 
 date:
-	echo "### Date and Time of last run of make (in German - my apologies (in German - my apologies))" >> README.md
+	echo "### Date and Time of last run of make (in German - my apologies)" >> README.md
 	date >> README.md
 
 line_count:
